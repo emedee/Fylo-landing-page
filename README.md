@@ -1,2 +1,2 @@
 # Fylo-landing-page
-A simple webpage created with hmtl, css and bootstrap
+A simple webpage created with hmtl and css with bootstrap
